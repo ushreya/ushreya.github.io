@@ -9,7 +9,7 @@ National Tsing Hua University
 **Research Experience**
 
 -Explicit modelling of verbal and non-verbal human sound events with conventional audio-visual context multimedia 
-emotion recognition model by considering human events as an auxiliary yet another important modality. \n
+emotion recognition model by considering human events as an auxiliary yet another important modality.
 -Developing and improving emotion recognition for induced emotions in movies by using Acoustic sound events cues 
 and scene analysis.
 -Considering and modelling the annotator’s perception and its affect on each other by cross-modal attention for fairness
